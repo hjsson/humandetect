@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\ff77d686c29c46af633d7c8bdf31581bd5fef6e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_9eff2f41d8d8e70b15b34dd7adf97f9277c7cbaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\additionnal_c93c9a16d00bcd8545a72a03a977342aec27f3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\activation_29d8405b684c24a4c57fb79d694c8fd0373fa54a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_c93c9a16d00bcd8545a72a03a977342aec27f3dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9ce80c006577ed32f59a3cd37d73438a1e95351">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_837f89b364d31f92a898f98c0cdd6bbff79b6c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_29d8405b684c24a4c57fb79d694c8fd0373fa54a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\6d52f6c5ccecbcca5ced8a2730152a935a1c26e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_327e43b7a4fee5b0fcd4e7cc4507bc0bd55f837b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c0e83bae9361d24e8cfb032d1e04693f71e911a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\support-annotations-25.1.0_07660c5848f49ed06f065f1c23bc8ce4a4231757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\59f3b73769bc12b50625779c9d7fbac4384e62ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_f212316f8eeda5a9e83de7cd63374c61b9363dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\7ca44cb3d84bb1c66f46b98d3be1fb3162db6a88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_3bc6041876898a0f16d174041d6f498d23bced54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_a5c15ba7c2fcf85fef7721687b987c92209b5e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\4173db197cbc02e744c34f2a7ed95bde1665aea8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_65df4b521e6541f83ce3fb7f709559f06251dbf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\mail_7d9d0c4e50d7c3d33d856771ab8da103e56b3901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\mpandroidchartlibrary-2-2-4_a5c15ba7c2fcf85fef7721687b987c92209b5e12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\son\AndroidStudioProjects\humandetect\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_7d9d0c4e50d7c3d33d856771ab8da103e56b3901\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\son\.android\build-cache\794aacf8f40addd02cbd497ee898b702847326e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\son\AndroidStudioProjects\humandetect\app\build\intermediates\pre-dexed\release\classes_a8ddeb3eea5970eab2bd76b9a41ad69c825c035b.jar" />
+    </item>
+
+</items>

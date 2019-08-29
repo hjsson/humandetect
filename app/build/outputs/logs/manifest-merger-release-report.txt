@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\5e8d68de47f988cdb3409924a9928c8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\ea004809934ea0daec8018ebea65e832\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\285a1095bbbae709db9d1ad8e2bf04e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\bf79bebf40071bc1d583405456e54646\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\fa4c08f49156328069b3c6d6f286600c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\37cfade9625c3038996d4e87d975e6e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\0cee8d3cd31c79573bafc84bbb7915bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\4e4f93ea68ffd10a4a9c595b11fa3c5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\8befade1bf66947b99bfcdf4f64a7a9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\563a868c4d447e28287289ac5673747e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\a1f89d9a3bc8d93339b0a96591ab1281\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b1c3e67aec5e64af7a64b0c19903f3f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\881bf123156192b5319d3b2d49434a27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d31480676a835ced97c50d9341c996de\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\dd91c5fb051eebb651f03aae5bfe4f25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d3b86c66ebe7d50727b5c0a92da0b0e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\03bbffe92bf4b07ada09c7b35d047120\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\30ca0cf9179ea26876393222389642cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b6f46a8ee1f57f74b148ee5d9041394c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\15cab75e9c0c812338745d762147c251\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\c458d52bc4b5234e4509e2e87bf0d08c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\084ad17440abe637bb5397b1ac3e3d54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\62883a7799b0a30fb4e4cc9846fa4e67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\3d652cebeddad66727747354e1808114\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:10:22-64
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:11:5-89
+	android:required
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:11:64-87
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:11:19-63
+application
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:15:5-36:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d31480676a835ced97c50d9341c996de\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d31480676a835ced97c50d9341c996de\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.cis.bluetoothcomm.MainActivity
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:22:13-50
+	android:label
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.cis.bluetoothcomm.DeviceListActivity
+ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:31:9-34:72
+	android:label
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:32:19-56
+	android:configChanges
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:34:19-69
+	android:theme
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:33:19-67
+	android:name
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml:31:19-53
+uses-sdk
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\5e8d68de47f988cdb3409924a9928c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\5e8d68de47f988cdb3409924a9928c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\ea004809934ea0daec8018ebea65e832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\ea004809934ea0daec8018ebea65e832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\285a1095bbbae709db9d1ad8e2bf04e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\285a1095bbbae709db9d1ad8e2bf04e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\bf79bebf40071bc1d583405456e54646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\bf79bebf40071bc1d583405456e54646\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\fa4c08f49156328069b3c6d6f286600c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\fa4c08f49156328069b3c6d6f286600c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\37cfade9625c3038996d4e87d975e6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\37cfade9625c3038996d4e87d975e6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\0cee8d3cd31c79573bafc84bbb7915bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\0cee8d3cd31c79573bafc84bbb7915bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\4e4f93ea68ffd10a4a9c595b11fa3c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\4e4f93ea68ffd10a4a9c595b11fa3c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\8befade1bf66947b99bfcdf4f64a7a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\8befade1bf66947b99bfcdf4f64a7a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\563a868c4d447e28287289ac5673747e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\563a868c4d447e28287289ac5673747e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\a1f89d9a3bc8d93339b0a96591ab1281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\a1f89d9a3bc8d93339b0a96591ab1281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b1c3e67aec5e64af7a64b0c19903f3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b1c3e67aec5e64af7a64b0c19903f3f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\881bf123156192b5319d3b2d49434a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\881bf123156192b5319d3b2d49434a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\1158617bb5f71b1c542e3fe087d33798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d31480676a835ced97c50d9341c996de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d31480676a835ced97c50d9341c996de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\dd91c5fb051eebb651f03aae5bfe4f25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\dd91c5fb051eebb651f03aae5bfe4f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d3b86c66ebe7d50727b5c0a92da0b0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\d3b86c66ebe7d50727b5c0a92da0b0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\03bbffe92bf4b07ada09c7b35d047120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\03bbffe92bf4b07ada09c7b35d047120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\30ca0cf9179ea26876393222389642cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\30ca0cf9179ea26876393222389642cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b6f46a8ee1f57f74b148ee5d9041394c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\b6f46a8ee1f57f74b148ee5d9041394c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\15cab75e9c0c812338745d762147c251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\15cab75e9c0c812338745d762147c251\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\c458d52bc4b5234e4509e2e87bf0d08c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\c458d52bc4b5234e4509e2e87bf0d08c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\084ad17440abe637bb5397b1ac3e3d54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\084ad17440abe637bb5397b1ac3e3d54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\62883a7799b0a30fb4e4cc9846fa4e67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\62883a7799b0a30fb4e4cc9846fa4e67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\3d652cebeddad66727747354e1808114\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sson\.gradle\caches\transforms-2\files-2.1\3d652cebeddad66727747354e1808114\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sson\Desktop\Android_APP\humandetect\app\src\main\AndroidManifest.xml
